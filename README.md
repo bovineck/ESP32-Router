@@ -1,6 +1,15 @@
 # OneCircuit's addition
 
-See below for all the explanations of what this code does - all I have done is add some external antenna activation code specifically needed for the ESP32C6 from Seeed Studio. I have also included the binaries here if you don't wish to compile the code, and as well the commands to load the binaries using esptool.py
+This is a version of the ESP32 router code found here:
+https://github.com/dchristl/esp32_nat_router_extended,  which is also a version of the code found here:
+https://github.com/martin-ger/esp32_nat_router
+
+See below for all the explanations regarding this code. I have made the following modifications:
+
+1. Added some external antenna activation code specifically needed for the ESP32C6 from Seeed Studio
+2. Slightly modified the partitions csv file to work with the ESP32C6
+3. Included the binaries here if you don't wish to compile the code
+4. Added a file of the commands I used to load the binaries using esptool.py
 
 Video with all of this explained is: (insert video here)
 
