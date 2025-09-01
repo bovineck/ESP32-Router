@@ -11,7 +11,7 @@ See below for all the explanations regarding this code. I have made the followin
 3. Included the binaries here if you don't wish to compile the code
 4. Added a file of the commands I used to load the binaries using esptool.py
 
-Video with all of this explained is: (insert video here)
+Video with all of this explained is: https://youtu.be/QHjl518MrCo
 
 # ESP32 NAT Router Extended
 
